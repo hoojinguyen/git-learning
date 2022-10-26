@@ -4,3 +4,4 @@ console.log("third update");
 
 
 console.log("COMBAI 1 - index");
+console.log("COMBAI 2 - index");
